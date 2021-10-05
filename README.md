@@ -4,4 +4,4 @@ GoNews is a News App which up to date your daily life by providing you the Knowl
 It has varities of category to get your favourite category of news
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/78685202/136066688-1d5f6d59-5113-4352-b960-84868bfbbaac.png" width="200" height="400" />
+![](![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)| width=100)
